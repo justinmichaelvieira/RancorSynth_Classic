@@ -3,6 +3,8 @@ RancorSynth_Classic
 
 RancorSynth Classic - now open sourced!
 
+[Note - load the file RancorSynth_1_2_0.fsm in FlowStone (http://www.dsprobotics.com/download.php).  The trial version will work fine.]
+
 rancorSynth
 
 Because simplicity is a virtue. 
