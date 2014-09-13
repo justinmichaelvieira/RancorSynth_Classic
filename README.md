@@ -3,7 +3,7 @@ RancorSynth_Classic
 
 RancorSynth Classic - now open sourced!
 
-[Note - If you aren't familiar with GitHub, the "Download Zip" on the right side of the page is probably your best bet for getting the files. Then load the file RancorSynth_1_2_0.fsm in FlowStone (http://www.dsprobotics.com/download.php).  The trial version will work fine.]
+[Note - If you aren't familiar with GitHub, the "Download Zip" on the right side of the page is probably your best bet for getting the files. Then extract the zip and load the file RancorSynth_1_2_0.fsm in FlowStone (http://www.dsprobotics.com/download.php).  The trial version will work fine.]
 
 rancorSynth
 
